@@ -1,0 +1,19 @@
+/* /Shared/Layouts/Box.razor.rz.scp.css */
+.box[b-0n5ibsqoze] {
+    padding: 0.5rem;
+    background: var(--gray3);
+}
+/* /Shared/Layouts/Cluster.razor.rz.scp.css */
+.cluster[b-hfyt8ivbd2] {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+/* /Shared/Layouts/Stack.razor.rz.scp.css */
+.stack[b-90vm79lppd] {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 0.5rem;
+}
